@@ -24,7 +24,7 @@ public class Hello {
 		
 		driver.findElement(By.tagName("input")).sendKeys("rama");
 		
-        
+        System.out.println("New time");
 
      
         
